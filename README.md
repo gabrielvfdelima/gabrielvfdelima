@@ -5,9 +5,11 @@
 Olá! Meu nome é Gabriel Veloso. Tenho 17 anos e atualmente estou cursando o 3° ano do ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas.
 
 Minha jornada na programação começou há algum tempo, e desde então venho buscando expandir meus conhecimentos e habilidades. Tenho experiência com algumas linguagens de programação, incluindo:
+
 - **Java**
 - **Python**
 - **JavaScript**
+
 Estou sempre em busca de novas oportunidades para aprender e crescer na área da tecnologia da informação. Estou animado para aplicar minhas habilidades em projetos futuros e continuar explorando o vasto mundo do desenvolvimento de software.
 
 ### Projetos Destacados
