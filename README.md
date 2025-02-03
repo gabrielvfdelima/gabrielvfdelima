@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é Gabriel Veloso. Tenho 17 anos e atualmente estou cursando o 3° ano do ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas.
+Olá! Meu nome é Gabriel Veloso, tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Catanduva. 
 
 Minha jornada na programação começou há algum tempo, e desde então venho buscando expandir meus conhecimentos e habilidades. Tenho experiência com algumas linguagens de programação, incluindo:
 
