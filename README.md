@@ -1,33 +1,31 @@
-# Olá, eu sou Gabriel Veloso! 👋
+# 👋 Hi, I'm Gabriel Veloso
 
-## Sobre Mim
+🎓 I'm an 18-year-old **Systems Analysis and Development** student at the Federal Institute of Catanduva (IFSP).  
+💻 Passionate about technology, problem-solving, and building efficient software solutions.  
+🌱 Currently expanding my knowledge in software development and always seeking new challenges.  
 
-Olá! Meu nome é Gabriel Veloso, tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Catanduva. 
+---
 
-Minha jornada na programação começou há algum tempo, e desde então venho buscando expandir meus conhecimentos e habilidades. Tenho experiência com algumas linguagens de programação, incluindo:
+## 🛠️ Tech Stack
+Here are some of the technologies I work with:
 
-- **Java**
-- **Python**
-- **JavaScript**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-Estou sempre em busca de novas oportunidades para aprender e crescer na área da tecnologia da informação. Estou animado para aplicar minhas habilidades em projetos futuros e continuar explorando o vasto mundo do desenvolvimento de software.
+---
 
-### Projetos Destacados
+## 📊 GitHub Stats
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielvfdelima&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvfdelima&layout=compact&theme=tokyonight)
 
-Aqui estão alguns dos meus projetos mais recentes:
+---
 
-- [Gerador de Senhas](https://github.com/gabrielvfdelima/Password-Generator-Python)
+## 📫 Let's Connect
+- 💼 [LinkedIn]((https://www.linkedin.com/in/gabrielvfdelima/))  
+- 📧 [Email](mailto:gabrielvfdelima@gmail.com)  
 
-### Contato
-
-Você pode me encontrar nas seguintes plataformas:
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielvfdelima@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielvfdelima/)
-
-Fique à vontade para explorar meus repositórios e ver alguns dos meus trabalhos. Estou aberto a colaborações e sempre disposto a aprender mais com a comunidade de desenvolvedores.
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielvfdelima&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielvfdelima&layout=compact&bg_color=1A1B27&border_color=70A5FD&title_color=DA0F5&text_color=38BDAE)
+---
+✨ *"Always learning, always building."*
