@@ -18,13 +18,17 @@ Here are some of the technologies I work with:
 ---
 
 ## 📊 GitHub Stats
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielvfdelima&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvfdelima&layout=compact&theme=tokyonight)
+<div align="center">
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielvfdelima&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvfdelima&layout=compact&theme=tokyonight" />
+
+</div>
 
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn]((https://www.linkedin.com/in/gabrielvfdelima/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielvfdelima/)  
 - 📧 [Email](mailto:gabrielvfdelima@gmail.com)  
 
 ---
