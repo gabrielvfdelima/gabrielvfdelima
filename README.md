@@ -18,12 +18,7 @@ Here are some of the technologies I work with:
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielvfdelima&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvfdelima&layout=compact&theme=tokyonight" />
-
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvfdelima&show_icons=true)
 
 ---
 
