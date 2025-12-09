@@ -19,7 +19,7 @@ Here are some of the technologies I work with:
 ---
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvfdelima&show_icons=true)
+![Calendário isométrico](./isocalendar.svg)
 
 ---
 
